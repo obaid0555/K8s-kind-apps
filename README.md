@@ -34,3 +34,15 @@ This project also incorporates monitoring tools:
 
 ![Architecture Diagram](k8s-kind-voting-app.png)
 
+- **Argo CD 
+![Architecture Diagram](Argo-CD.png)
+
+
+- **Prometheus**: For collecting and monitoring metrics from the system.
+![Architecture Diagram](prometheus.png)
+- **Grafana**: For creating and viewing custom dashboards.
+![Architecture Diagram](grafana.png)
+
+
+
+
