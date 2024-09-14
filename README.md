@@ -32,7 +32,7 @@ This project also incorporates monitoring tools:
 - **Grafana Diagram**: Visual representation of Grafana’s monitoring setup.
 - **Prometheus Diagram**: Shows how Prometheus is configured for monitoring.
 
-![Architecture Diagram](k8s-kind-voting-app.png)
+![Architecture Diagram](k8s.png)
 
 - **Argo CD 
 ![Architecture Diagram](Argo-CD.png)
